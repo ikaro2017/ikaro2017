@@ -2,7 +2,7 @@
 Meu nome é Ikaro
 
 - Estou estudando na plataforma [Alura](https://www.alura.com.br/)
-- Estou me desenvolvendo na Linguagem [p5.js](https://editor.p5js.org/)
+- Estou me desenvolvendo na Linguagem javascript na plataforma [p5.js](https://editor.p5js.org/)
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Caso desejar entrar em contato comigo 📧
